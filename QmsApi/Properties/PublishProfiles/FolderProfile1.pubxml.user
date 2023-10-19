@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\My Projects\QMS\Deployment\API\Live</_PublishTargetUrl>
+    <History>True|2023-07-14T11:49:19.8197731Z;True|2023-07-13T10:56:04.1858993+05:30;True|2023-07-12T16:35:42.9800762+05:30;True|2023-07-12T16:04:06.8029724+05:30;True|2023-07-11T11:24:05.0872525+05:30;True|2023-07-11T11:03:40.2762130+05:30;True|2023-07-11T10:27:47.4993989+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

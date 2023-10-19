@@ -1,0 +1,216 @@
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\appsettings.json
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\QmsApi.exe
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\QmsApi.deps.json
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\QmsApi.runtimeconfig.json
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\QmsApi.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\QmsApi.pdb
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\AngleSharp.Css.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\HtmlSanitizer.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\QmsDAL.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\QmsRepository.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\QmsDAL.pdb
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\bin\Debug\net6.0\QmsRepository.pdb
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\QmsApi.csproj.AssemblyReference.cache
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\QmsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\QmsApi.AssemblyInfoInputs.cache
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\QmsApi.AssemblyInfo.cs
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\QmsApi.csproj.CoreCompileInputs.cache
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\QmsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\QmsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\staticwebassets\msbuild.QmsApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\staticwebassets\msbuild.build.QmsApi.props
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QmsApi.props
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QmsApi.props
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\scopedcss\bundle\QmsApi.styles.css
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\QmsApi.csproj.CopyComplete
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\QmsApi.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\refint\QmsApi.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\QmsApi.pdb
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\QmsApi.genruntimeconfig.cache
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsApi\obj\Debug\net6.0\ref\QmsApi.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\appsettings.Development.json
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\appsettings.json
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\QmsApi.exe
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\QmsApi.deps.json
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\QmsApi.runtimeconfig.json
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\QmsApi.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\QmsApi.pdb
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\AngleSharp.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\AngleSharp.Css.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Azure.Core.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\HtmlSanitizer.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Negotiate.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.AccountManagement.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\QmsDAL.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\QmsRepository.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\QmsDAL.pdb
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\bin\Debug\net6.0\QmsRepository.pdb
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\QmsApi.csproj.AssemblyReference.cache
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\QmsApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\QmsApi.AssemblyInfoInputs.cache
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\QmsApi.AssemblyInfo.cs
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\QmsApi.csproj.CoreCompileInputs.cache
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\QmsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\QmsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\staticwebassets\msbuild.QmsApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\staticwebassets\msbuild.build.QmsApi.props
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.QmsApi.props
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.QmsApi.props
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\scopedcss\bundle\QmsApi.styles.css
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\QmsApi.csproj.CopyComplete
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\QmsApi.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\refint\QmsApi.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\QmsApi.pdb
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\QmsApi.genruntimeconfig.cache
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsApi\obj\Debug\net6.0\ref\QmsApi.dll

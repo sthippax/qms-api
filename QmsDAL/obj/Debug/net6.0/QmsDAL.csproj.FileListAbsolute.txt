@@ -1,0 +1,24 @@
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsDAL\bin\Debug\net6.0\QmsDAL.deps.json
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsDAL\bin\Debug\net6.0\QmsDAL.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsDAL\bin\Debug\net6.0\QmsDAL.pdb
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsDAL\obj\Debug\net6.0\QmsDAL.csproj.AssemblyReference.cache
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsDAL\obj\Debug\net6.0\QmsDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsDAL\obj\Debug\net6.0\QmsDAL.AssemblyInfoInputs.cache
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsDAL\obj\Debug\net6.0\QmsDAL.AssemblyInfo.cs
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsDAL\obj\Debug\net6.0\QmsDAL.csproj.CoreCompileInputs.cache
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsDAL\obj\Debug\net6.0\QmsDAL.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsDAL\obj\Debug\net6.0\refint\QmsDAL.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsDAL\obj\Debug\net6.0\QmsDAL.pdb
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsDAL\obj\Debug\net6.0\ref\QmsDAL.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsDAL\bin\Debug\net6.0\QmsDAL.deps.json
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsDAL\bin\Debug\net6.0\QmsDAL.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsDAL\bin\Debug\net6.0\QmsDAL.pdb
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsDAL\obj\Debug\net6.0\QmsDAL.csproj.AssemblyReference.cache
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsDAL\obj\Debug\net6.0\QmsDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsDAL\obj\Debug\net6.0\QmsDAL.AssemblyInfoInputs.cache
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsDAL\obj\Debug\net6.0\QmsDAL.AssemblyInfo.cs
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsDAL\obj\Debug\net6.0\QmsDAL.csproj.CoreCompileInputs.cache
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsDAL\obj\Debug\net6.0\QmsDAL.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsDAL\obj\Debug\net6.0\refint\QmsDAL.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsDAL\obj\Debug\net6.0\QmsDAL.pdb
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsDAL\obj\Debug\net6.0\ref\QmsDAL.dll

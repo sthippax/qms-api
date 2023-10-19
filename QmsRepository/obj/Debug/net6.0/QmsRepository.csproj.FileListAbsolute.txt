@@ -1,0 +1,30 @@
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsRepository\bin\Debug\net6.0\QmsRepository.deps.json
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsRepository\bin\Debug\net6.0\QmsRepository.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsRepository\bin\Debug\net6.0\QmsRepository.pdb
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsRepository\bin\Debug\net6.0\QmsDAL.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsRepository\bin\Debug\net6.0\QmsDAL.pdb
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsRepository\obj\Debug\net6.0\QmsRepository.csproj.AssemblyReference.cache
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsRepository\obj\Debug\net6.0\QmsRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsRepository\obj\Debug\net6.0\QmsRepository.AssemblyInfoInputs.cache
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsRepository\obj\Debug\net6.0\QmsRepository.AssemblyInfo.cs
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsRepository\obj\Debug\net6.0\QmsRepository.csproj.CoreCompileInputs.cache
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsRepository\obj\Debug\net6.0\QmsRepository.csproj.CopyComplete
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsRepository\obj\Debug\net6.0\QmsRepository.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsRepository\obj\Debug\net6.0\refint\QmsRepository.dll
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsRepository\obj\Debug\net6.0\QmsRepository.pdb
+C:\Users\cthirusx\source\repos\vai\QmsApi\QmsRepository\obj\Debug\net6.0\ref\QmsRepository.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsRepository\bin\Debug\net6.0\QmsRepository.deps.json
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsRepository\bin\Debug\net6.0\QmsRepository.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsRepository\bin\Debug\net6.0\QmsRepository.pdb
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsRepository\bin\Debug\net6.0\QmsDAL.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsRepository\bin\Debug\net6.0\QmsDAL.pdb
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsRepository\obj\Debug\net6.0\QmsRepository.csproj.AssemblyReference.cache
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsRepository\obj\Debug\net6.0\QmsRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsRepository\obj\Debug\net6.0\QmsRepository.AssemblyInfoInputs.cache
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsRepository\obj\Debug\net6.0\QmsRepository.AssemblyInfo.cs
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsRepository\obj\Debug\net6.0\QmsRepository.csproj.CoreCompileInputs.cache
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsRepository\obj\Debug\net6.0\QmsRepository.csproj.CopyComplete
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsRepository\obj\Debug\net6.0\QmsRepository.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsRepository\obj\Debug\net6.0\refint\QmsRepository.dll
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsRepository\obj\Debug\net6.0\QmsRepository.pdb
+C:\My Projects\QMS\Api\02-June-2023\QMS-Api\QmsRepository\obj\Debug\net6.0\ref\QmsRepository.dll
