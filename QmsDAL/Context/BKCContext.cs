@@ -22,8 +22,8 @@ namespace QmsDAL.Context
 
             if (!optionsBuilder.IsConfigured)
             {
-                //string conn = "Data Source=BAJARVIS001;Initial Catalog=WSIV_UI;Persist Security Info=True;User ID=JPCAdmin;Password=welcome@123;TrustServerCertificate=True";
-                string conn = "Data Source=sql1310-pg1-in.gar.corp.intel.com,3181;Initial Catalog=QMS;Persist Security Info=True;User ID=QMS_Admin;Password=Indic@tor123";
+                //string conn = "Data Source=BAJARVIS001;Initial Catalog=WSIV_UI;Persist Security Info=True;User ID=JPCAdmin;Password=;TrustServerCertificate=True";
+                string conn = "Data Source=sql1310-pg1-in.gar.corp.intel.com,3181;Initial Catalog=QMS;Persist Security Info=True;User ID=QMS_Admin;Password=";
                 optionsBuilder.UseSqlServer(conn);//Environment.GetEnvironmentVariable("ConnectionString"));
             }
         }
