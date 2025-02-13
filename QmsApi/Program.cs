@@ -15,17 +15,17 @@ builder.Services.AddHsts(options =>
 });
 if (!builder.Environment.IsDevelopment())
 {
-    builder.Services.AddHttpsRedirection(options =>
-    {
-        options.RedirectStatusCode = (int)HttpStatusCode.PermanentRedirect;
-        options.HttpsPort = 443;
-    });
+    //builder.Services.AddHttpsRedirection(options =>
+    //{
+    //    options.RedirectStatusCode = (int)HttpStatusCode.PermanentRedirect;
+    //    options.HttpsPort = 443;
+    //});
 }
 
 
 // Add services to the container.
-builder.Services.ConfigureCors();
-builder.Services.ConfigureIISIntegration();
+//builder.Services.ConfigureCors();
+//builder.Services.ConfigureIISIntegration();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -46,19 +46,19 @@ builder.Services.AddScoped<ISiliconInterface, SiliconRepository>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+//}
 
-else
-{
-    app.UseHsts();
-}
+//else
+//{
+//    app.UseHsts();
+//}
 
 if (app.Environment.IsProduction())
-    app.UseHttpsRedirection();
+    //app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseRouting();
 if (app.Environment.IsDevelopment())
